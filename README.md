@@ -14,4 +14,8 @@ Tilli Academy Onboarding
 
 - Name: Rama Murari Reddy
 - Github ID: murari123-byte
-- Github Email: avatalaramamurarireddy@gmail.com
+- Github Email: avatalaramamurarireddy@gmaisl.com
+
+- Name: Govardhan Naidu Palla
+- Github ID: vardhanpalla
+- Email: vardhanpalla916@gmail.com
